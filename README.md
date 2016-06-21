@@ -1,2 +1,2 @@
 # zookeeper学习笔记
-[wather注册机制](https://github.com/apple08325/threadPoolDoc/blob/master/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84Future%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
+[wather注册机制](https://github.com/apple08325/zookeeper-learning/blob/master/watcher%E6%B3%A8%E5%86%8C%E6%9C%BA%E5%88%B6.md)
